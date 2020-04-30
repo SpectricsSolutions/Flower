@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 1 colors -->
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="_bg___3_color">#5b4ed2</color>
+    <color name="_bg___1_color">#5b4ed2</color>
+    <color name="rectangle_2231_color">#000000</color>
+    <color name="rectangle_2230_color">#ffffff</color>
+    <color name="__9_05_color">#ff5db9</color>
+    <color name="cad_color">#6f3ea9</color>
+    <color name="length___50cm_color">#a2a2a2</color>
+    <color name="bunch_of_20_color">#3a3a3a</color>
+    <color name="red_rose_color">#383838</color>
+    <color name="__19_05_ek3_color">#70972c</color>
+    <color name="search_ek1_color">#c4c4c4</color>
+    <color name="nearby_color">#ffffff</color>
+    <color name="ellipse_32_color">#f5be3c</color>
+    <color name="ellipse_33_color">#d2a53c</color>
+    <color name="ellipse_34_color">#c3bc41</color>
+    <color name="ellipse_35_color">#b4d246</color>
+    <color name="___time_color">#000000</color>
+    <color name="explore_color">#3e3e3e</color>
+</resources>
